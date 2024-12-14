@@ -21,6 +21,7 @@ telephone_number: "845-208-9846"
 # pinterest_username: "my_pinterest_username"
 twitter_username: "_dofd"
 bluesky_username: "defenseofdemocracy"
+github_username: false
 
 # uncomment for plausible.io analytics, should match the "url" above
 # plausible_io: example.com
