@@ -1,25 +1,26 @@
-title: Linky Template
+title: Defense Of Democracy
 subheads:
-    - "Catchy little tagline (one or more)"
+    - "Advocates · Allies · Americans"
 
 email: email@example.com
 description: >-
     A brief description of your site
 baseurl: ""
-url: "https://example.com/"
+url: "https://links.democracy.org/"
 
 # uncomment and fill in any social IDs you want linked from the top of your page
 
-# email: "email@example.com"
-# tiktok_username: "my_tiktok_username"
+email: "info@defenseofdemocracy.org"
+tiktok_username: "_dofd"
 # github_username: "my_github_username"
-# instagram_username: "my_instagram_username"
-# threads_username: "my_threads_username"
+youtube_channel_id: "UCwMRXVPwN8F7StGy77Lvf_Q"
+facebook_username: "defenseofdemocracy1"
+instagram_username: "dofdnational"
+threads_username: "dofdnational"
+telephone_number: "845-208-9846"
 # pinterest_username: "my_pinterest_username"
-# mastodon_username: "@username@example.host"
-# cashapp_username: "my_cashapp_username"
-# venmo_username: "my_venmo_username"
-# bluesky_username: "my_bluesky_username" 
+twitter_username: "_dofd"
+bluesky_username: "defenseofdemocracy"
 
 # uncomment for plausible.io analytics, should match the "url" above
 # plausible_io: example.com
@@ -39,9 +40,10 @@ exclude:
     - netlify.toml
 
 linky:
-    body_background: "#030303"
-    body_foreground: "#F0F0F0"
-    button_background: "#f16293"
+    body_background: "#2d598f"
+    body_foreground: "#fff"
+    button_background: "#ebead9"
+    button_foreground: "#030303"
     social_button_color: "#ffffff"
 
 collections:
