@@ -12,16 +12,13 @@ url: "https://links.democracy.org/"
 
 email: "info@defenseofdemocracy.org"
 tiktok_username: "_dofd"
-# github_username: "my_github_username"
 youtube_channel_id: "UCwMRXVPwN8F7StGy77Lvf_Q"
 facebook_username: "defenseofdemocracy1"
 instagram_username: "dofdnational"
 threads_username: "dofdnational"
-telephone_number: "845-208-9846"
-# pinterest_username: "my_pinterest_username"
+telephone_number: "+1845-208-9846"
 twitter_username: "_dofd"
 bluesky_username: "defenseofdemocracy"
-github_username: false
 
 # uncomment for plausible.io analytics, should match the "url" above
 # plausible_io: example.com
